@@ -37,5 +37,5 @@ automatically (`SENTENCE_MINER_TOKEN` overrides).
 node export.mjs --check
 ```
 
-[MorEnglish Sentence Miner]: https://github.com/MoribundMurdoch
+[MorEnglish Sentence Miner]: https://github.com/EnglishMoribund/MorEnglish_Sentence_Miner
 [Moribund Flash]: https://github.com/MoribundMurdoch
